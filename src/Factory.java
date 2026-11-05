@@ -11,7 +11,7 @@ public static void main(String[] args){
 
     public Cell cell1; //Makes cell 1
     public Cell cell2; //Makes cell 2
-    public Cell cell3; //Make cell 3
+    public Cell cell3; //Makes cell 3
 
     //factory constructor
     public Factory(){

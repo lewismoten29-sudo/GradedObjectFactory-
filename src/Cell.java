@@ -21,7 +21,7 @@ public void printInfo(){    //print info method
     System.out.println("Is the cell cancerous: " + isCancerous); // prints the true/false value for is cancerous
 
 }  //end of print info method
-public void randomCellname(){  //if statments to generate a random cell name
+public void randomCellname(){  //if statments to generate a random cell type (Nerve cell, Skin cell, or Blood cell)
 
     randNum = (int)(Math.random() * 2);
         if (randNum == 0) {

@@ -22,6 +22,7 @@ public static void main(String[] args){
         //cell 1
         cell1 = new Cell(2); //makes cell 1 and gives it a size of 2
         cell1.randomCellname();
+        //cell1.randomCellname();
         cell1.printInfo();//Prints the info for cell 1
 
         //cell 2
